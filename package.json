@@ -1,0 +1,11 @@
+{
+  "name": "pruebaludik",
+  "version": "1.0.0",
+  "description": "prueba ludik desarrollador front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "German Ordoñez",
+  "license": "ISC"
+}
